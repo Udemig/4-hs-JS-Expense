@@ -1,5 +1,11 @@
 <h1>Harcama Hesaplayıcı</h1>
 Gider hesaplamak için oluşturulan basit bir javascript app
+
+<br>
+<br>
+
+[Canlı Önizleme](https://harcama-hesaplama.netlify.app/)
+
 <h3>Teknolojiler</h3>
 
 ````
